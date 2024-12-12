@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.button{
+    font-size: 3em;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+label{
+    font-size: 3em;
+}

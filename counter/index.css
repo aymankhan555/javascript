@@ -1,0 +1,24 @@
+.counter{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+.container
+{
+       text-align: center;
+       
+}
+button
+{
+    background-color: rgb(81, 174, 174);
+    padding: 10px;
+    border:none;
+    font-size:1.5em;
+    color:white;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.25s;
+}
+button:hover{
+    background-color: rgb(47, 154, 154);
+}

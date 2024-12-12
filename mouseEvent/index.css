@@ -1,0 +1,21 @@
+#myBox {
+    background-color: lightGreen;
+    height: 300px;
+    width: 300px;
+    font-size: 4.5rem;
+    display: flex;
+    align-items: center;
+    font-weight:bold;
+    text-align: center;
+
+}
+#myBtn
+{
+    margin-top:10px;
+    font-size:2rem;
+    padding:10px 20px;
+    border-radius: 10px;
+    color:white;
+    border:none;
+    background-color: lightgreen;
+}
