@@ -49,8 +49,8 @@ body {
 
 }
 .todo-list div {
-    font-size: 1rem; /* Ensure text size is consistent */
-    word-wrap: break-word; /* Prevent text overflow */
+    font-size: 1rem; 
+    word-wrap: break-word; 
 }
 
 .add-button,.delete-button {
